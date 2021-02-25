@@ -1,0 +1,25 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+}
+
+body {
+    background-color: #f8f6f4;
+    width: 80%;
+    margin: auto;
+}
+
+h1 {
+    font-size: 20px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 18px;
+    background-color: #d8c1aa;
+    padding: 10px;
+    border-bottom: 2px solid #573009;
+    color: #5a3402;
+    margin-top: 15px;
+}
+
