@@ -59,3 +59,16 @@ li {
     color: #555555;
 }
 
+.download {
+    display: inline-block;
+    width: 240px;
+    background-color: #29282b;
+    padding: 15px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.download a {
+    color: #ffffff;
+    padding: 15px;
+}
